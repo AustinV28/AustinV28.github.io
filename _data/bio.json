@@ -9,7 +9,7 @@
     "summary": "I am a student pursuing a degree in Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96706", "city": "Ewa Beach, HI", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "AustinV28", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "AustinV28", "url": "http://github.com/AustinV28" },
       { "network": "linkedin", "username": "Austin Jake Villanueva", "url": "https://www.linkedin.com/in/austin-jake-villanueva-8614a42aa/" },
       { "network": "twitter", "username": "_austinn28", "url": "http://twitter.com/_austinn28" },
       { "network": "instagram", "username": "_a.ustiinnn", "url": "http://instagram.com/_a.ustiinnn" }

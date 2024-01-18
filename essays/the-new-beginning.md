@@ -11,7 +11,9 @@ labels:
   - Growth
 ---
 
-![Growth and Learning](https://t3.ftcdn.net/jpg/04/16/10/78/360_F_416107856_8YTxXxOxaYJZzchysZv2bYSLINGKEamD.jpg)
+<div style="float: left; margin-right: 20px;">
+  <img width="480px" height="360px" class="rounded" src="https://t3.ftcdn.net/jpg/04/16/10/78/360_F_416107856_8YTxXxOxaYJZzchysZv2bYSLINGKEamD.jpg" alt="Growth and Learning">
+</div>
 
 
 Growing up I was always fascinated by complex mechanisms, solving problems, and creating nothing into something. I was always eager to build things as a child, I remembered that I would create these lego candy machines, lego weapons with loading and firing mechanisms, you name it, I built it all no matter how difficult the task was or how long it took. As time went on, I grew older and grew out of it, but I always knew that I had a passion for doing things like that, that's when I discovered programming from my relatives who are successful software developers and IT specialists. It brought me to a whole new world of imagination like no other, I was excited for it, I was ready to start a new path into my life but as my first couple of years went by, it seemed like what started as a new passion turned out to be a hoax, but that changed drastically.

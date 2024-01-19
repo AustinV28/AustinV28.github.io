@@ -2,15 +2,12 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Monster Fighters"
+date: 2023
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Java
+summary: "A simple text RPG game I created in the summer of 2023 using Java on Jgrasp."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">

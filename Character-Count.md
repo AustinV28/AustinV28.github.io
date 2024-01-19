@@ -2,7 +2,7 @@
 title: Projects
 layout: project
 type: project
-image: https://sklc-tinymce-2021.s3.amazonaws.com/comp/2023/02/233_1677505293.png
+image: img/project2.png
 title: "Character Count Program"
 date: 2023
 published: true

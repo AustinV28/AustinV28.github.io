@@ -2,7 +2,7 @@
 title: Projects
 layout: project
 type: project
-image: img/i-made-a-pixel-art-of-narsil-v0-g55jn2dibezb1.webp
+image: <img class="img-fluid" src="img/i-made-a-pixel-art-of-narsil-v0-g55jn2dibezb1.webp" alt="Pixel Sword" width="50%">
 title: "Monster Fighters"
 date: 2023
 published: true

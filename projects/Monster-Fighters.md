@@ -9,9 +9,8 @@ published: true
 labels:
   - Java
   - JGrasp
----
----
 summary: "A simple text RPG game I created in the summer of 2023 using Java on Jgrasp."
+---
 ---
 
 <img class="img-fluid" src="https://preview.redd.it/i-made-a-pixel-art-of-narsil-v0-g55jn2dibezb1.png?width=300&format=png&auto=webp&s=16df395e13557387807b1dd60048ce022b189448" alt="Pixel Sword">
@@ -24,3 +23,4 @@ In this project I gained more hands on experience with coding in Java. I learned
 Here is the code for the game:
 
 {% gist AustinV28/f9b3b7feef43ab80963cd8bf58227efa %}
+<img class="img-fluid" src="https://preview.redd.it/i-made-a-pixel-art-of-narsil-v0-g55jn2dibezb1.png?width=300&format=png&auto=webp&s=16df395e13557387807b1dd60048ce022b189448" alt="Pixel Sword">

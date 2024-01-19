@@ -7,7 +7,8 @@ date: 2023
 published: true
 labels:
   - Java
-  - JGraspi
+  - JGrasp
+  - 
 summary: "A simple text RPG game I created in the summer of 2023 using Java on Jgrasp."
 ---
 

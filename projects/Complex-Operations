@@ -2,24 +2,27 @@
 title: Projects
 layout: project
 type: project
-image: <img src="img/i-made-a-pixel-art-of-narsil-v0-g55jn2dibezb1.webp" alt="Pixel Sword" height="225px" class="rounded-start">
-title: "Monster Fighters"
+image: <img class="img-fluid" src="https://mlqbbna2acyz.i.optimole.com/cb:rBSz.118f4/w:auto/h:auto/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/10/1181148067045_672.jpg" alt="Math Symbol" width="50%">
+title: "Complex Operations"
 date: 2023
 published: true
 labels:
-  - Java
-  - JGrasp
-summary: "A simple text RPG game I created in the summer of 2023 using Java on Jgrasp."
+  - C
+  - SSH
+summary: "This C program defines and performs arithmetic operations on complex numbers."
 ---
 
-<img class="img-fluid" src="https://preview.redd.it/i-made-a-pixel-art-of-narsil-v0-g55jn2dibezb1.png?width=300&format=png&auto=webp&s=16df395e13557387807b1dd60048ce022b189448" alt="Pixel Sword">
+<img class="img-fluid" src="https://mlqbbna2acyz.i.optimole.com/cb:rBSz.118f4/w:auto/h:auto/q:mauto/f:best/https://media.sharefaith.com/wp-content/uploads/2022/10/1181148067045_672.jpg" alt="Math Symbol" width="50%">
 
-Monster Fighters is a simple RPG text game that I created in the summer of 2023. 
+This was an assignment I had for my ICS 212.
 
-The game initializes variables for player health, player attack power, and player gold. Also, for each encounter a random monster is selected, and both the player and monster health are initialized with random values. The player can either choose to attack or run from the monster and if the player chooses to attack, random damage is calculated for the player and the monster, and their health is adjusted accordingly. If the player decides to run, the encounter with the monster ends and is moved onto the next monster. The game plays until the player's health drops to 0, and the final output displays if the player had won or lost, along with the total amount of gold earned
+The code showcases the implementation of complex number operations in C, and through this assignment, I gained hands-on experience in working with complex numbers and learned valuable concepts in C programming.
 
-In this project I gained more hands on experience with coding in Java. I learned more about Java and how I could use my skills to hopefully develop or help develop a big game in the future.
+In this assignment, I learned how to:
+- Define and use structures in C.
+- Perform arithmetic operations on complex numbers.
+- Use C programming constructs for control flow and decision-making.
 
-Here is the code for the game:
+Here is the code:
 
-{% gist AustinV28/f9b3b7feef43ab80963cd8bf58227efa %}
+{% gist AustinV28/812239b90212c88b4e751ea6bb6512ca %}

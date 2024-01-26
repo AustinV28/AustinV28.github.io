@@ -14,7 +14,7 @@ labels:
   - Questions
 ---
 
-img/Smart-Questions-for-Managers-to-Lead-Better.png
+![Smart Picture](img/Smart-Questions-for-Managers-to-Lead-Better.png)
 
 
 ## Introduction

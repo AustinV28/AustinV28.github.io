@@ -14,7 +14,7 @@ labels:
   - Questions
 ---
 
-![Smart Picture](img/Smart-Questions-for-Managers-to-Lead-Better.png)
+![Smart Picture](https://github.com/AustinV28/AustinV28.github.io/raw/main/img/Smart-Questions-for-Managers-to-Lead-Better.png)
 
 
 ## Introduction

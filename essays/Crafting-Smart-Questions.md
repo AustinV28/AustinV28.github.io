@@ -25,7 +25,7 @@ Being able to communicate within the world of software engineering plays a cruci
 
 The not so smart question is:
 
-![Not So Smart Question](img/notSmartQuestion.png)
+![Not So Smart Question](https://github.com/AustinV28/AustinV28.github.io/raw/main/img/notSmartQuestion.png)
 
 This question lacks details such as the nature of the problem, error messages, or attempts made to address the issue. The title is vague and provides no insight into the specific challenge faced by the asker.
 
@@ -41,7 +41,7 @@ This question violates the precepts of asking smart questions. It doesn't follow
 
 The smart question is:
 
-![Smart Question](img/smartQuestion.png)
+![Smart Question](https://github.com/AustinV28/AustinV28.github.io/raw/main/img/smartQuestion.png)
 
 This question is clear, specific, and focuses on a well-defined problem. It follows the principles of asking smart questions by providing sufficient context, clarity, and relevance to the topic.
 

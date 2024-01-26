@@ -16,6 +16,7 @@ labels:
 
 ![Smart Picture](img/Smart-Questions-for-Managers-to-Lead-Better.png)
 
+
 ## Introduction
 
 Being able to communicate within the world of software engineering plays a crucial role not only in collaboration, but also in problem-solving and knowledge sharing. By asking smart questions, it enables people to help the person who is asking the question more efficiently, and it also adds to individual growth, and a much more positive community. In this essay, we will discuss the significance of smart questions in software engineering while taking a look at two examples that share one smart question and one not so smart question.

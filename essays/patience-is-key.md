@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-[![Patience is Key](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fwhy-coding-important-current-generation-rahul-garg&psig=AOvVaw3JIUZqxMhlFLcQvh2Rqi6Q&ust=1707552989361000&source=images&cd=vfe&opi=89978449
+[![Patience is Key](https://media.licdn.com/dms/image/D4D12AQEQ2_oB9RNhBw/article-cover_image-shrink_600_2000/0/1694789447859?e=2147483647&v=beta&t=Vd5ZXeYUdOCZX7g8wIv-iQFheiCFv4YMx0c1Sz13MT0)
 
 
 ## Introduction

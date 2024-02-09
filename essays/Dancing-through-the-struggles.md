@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Fighting through the struggles"
+title: "Dancing through the struggles"
 date: 2024-02-08
 published: true
 labels:
@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-[![Patience is Key](https://media.licdn.com/dms/image/D4D12AQEQ2_oB9RNhBw/article-cover_image-shrink_600_2000/0/1694789447859?e=2147483647&v=beta&t=Vd5ZXeYUdOCZX7g8wIv-iQFheiCFv4YMx0c1Sz13MT0)
+![Patience is Key](https://media.licdn.com/dms/image/D4D12AQEQ2_oB9RNhBw/article-cover_image-shrink_600_2000/0/1694789447859?e=2147483647&v=beta&t=Vd5ZXeYUdOCZX7g8wIv-iQFheiCFv4YMx0c1Sz13MT0)
 
 
 ## Introduction

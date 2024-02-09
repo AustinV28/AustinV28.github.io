@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Dancing through Obstacles"
+title: "Fighting through the struggles"
 date: 2024-02-08
 published: true
 labels:
@@ -29,11 +29,11 @@ The appeal of the green checkmark became both a motivation and a source of frust
 
 ## The Turning Point
 
-As I spent more time with ESLint and IntelliJ, something remarkable happened – a turning point. The once frustrating and complicated challenges started to unravel, and the once confusing red squiggly lines transformed into helpful guides, nudging me towards coding excellence. It was as if a symphony of ease began playing in the background, turning the coding experience from a struggle to a dance.
+As I spent more time with ESLint and IntelliJ, I had a turning point. The once frustrating and complicated challenges started to unravel, and the once confusing tools transformed into helpful guides, pushing me towards coding with excellence. It was as if a symphony of ease began playing in the background, turning the coding experience from a struggle to a dance.
 
 ## The Ease and Creativity Unleashed
 
-With newfound understanding and patience, the coding process became more than just fixing errors. It became an avenue for creativity. ESLint and IntelliJ, once perceived as obstacles, now became tools that enhanced my coding journey. The green checkmark, became a satisfying confirmation of progress.
+With understanding and patience, the coding process became more than just fixing errors. It became like an avenue for creativity. ESLint and IntelliJ, once seen as obstacles, now became tools that enhanced my coding journey. The green checkmark, became a satisfying confirmation of progress.
 
 ## The Conclusion to my journey
 

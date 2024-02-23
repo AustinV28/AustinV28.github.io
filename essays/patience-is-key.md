@@ -14,7 +14,12 @@ labels:
   - Learning
 ---
 
-![Patience is Key](https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true)
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+  <div style="flex: 1; max-width: 40%;">
+    <img src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" style="max-width: 100%;">
+  </div>
+
+  <div style="flex: 1; max-width: 58%;">
 
 ## Introduction
 

@@ -11,36 +11,8 @@ labels:
   - Software Engineering
   - Learning
 ---
-
-<style>
-  .essay-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-  }
-
-  .essay-content {
-    flex: 1;
-    max-width: calc(60% - 10px); /* Adjust the width accordingly */
-    line-height: 2; /* Double-spaced */
-  }
-
-  .essay-image {
-    flex: 1;
-    max-width: calc(40% - 10px); /* Adjust the width accordingly */
-    margin-left: 20px; /* Adjust the spacing between image and text */
-  }
-
-  .essay-image img {
-    max-width: 100%;
-    display: block;
-  }
-</style>
-
-<div class="essay-container">
-  <div class="essay-content">
+    <img src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" style="max-width: 100%;">
+    
     ## Introduction
     Embarking on the path of UI development, I discovered that patience is not just a virtue but a guiding force that shaped my journey. The world of UI frameworks unfolded before me, presenting challenges and opportunities. In this essay, I delve into the significance of patience in the realm of coding standards, ESLint, IntelliJ, and the broader landscape of software engineering learning.
 
@@ -61,9 +33,5 @@ labels:
     In the conclusion, I reflect on the evolution of my skills and the role of patience in mastering UI frameworks. The essay encapsulates the essence of my journey, emphasizing that success in software engineering is not just about writing code but about embracing the learning process with patience and resilience.
 
     Through this narrative, I aim to inspire fellow developers to view challenges as opportunities for growth. Patience, as I discovered, is not merely a virtue but a transformative force that propels us toward mastery in the dynamic world of UI frameworks.
-  </div>
-
-  <div class="essay-image">
-    <img src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key">
   </div>
 </div>

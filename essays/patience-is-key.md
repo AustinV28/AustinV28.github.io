@@ -8,8 +8,6 @@ labels:
   - UI Development
   - Bootstrap 5
   - Coding Standards
-  - ESLint
-  - IntelliJ
   - Software Engineering
   - Learning
 ---

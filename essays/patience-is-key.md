@@ -33,5 +33,4 @@ labels:
     In the conclusion, I reflect on the evolution of my skills and the role of patience in mastering UI frameworks. The essay encapsulates the essence of my journey, emphasizing that success in software engineering is not just about writing code but about embracing the learning process with patience and resilience.
 
     Through this narrative, I aim to inspire fellow developers to view challenges as opportunities for growth. Patience, as I discovered, is not merely a virtue but a transformative force that propels us toward mastery in the dynamic world of UI frameworks.
-  </div>
-</div>
+

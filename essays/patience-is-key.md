@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-![Patience is Key](https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true)
+<img src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" width="400" height="300">
 
 ## Introduction
 

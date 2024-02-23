@@ -12,28 +12,28 @@ labels:
   - Learning
 ---
 
-<img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" width="400" height="300">
+<img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" width="350" height="300">
 
 
 ## Introduction
 
-As I stood on the path of UI development, I discovered that patience is not just a virtue but more of a guiding force in which shaped my journey. The world of UI frameworks unfolded before me, it presented challenges and opportunities. In this essay, I will be diving into the significance of patience in relation to UI frameworks and Bootstrap.
+> As I embarked on the journey of UI development, I came to realize that patience is not merely a virtue; it is a guiding force that shapes the path ahead. The expansive world of UI frameworks unfolded before me, revealing both challenges and opportunities. This essay aims to delve deeper into the profound significance how being patient could allow for a better understanding in UI framework, and also with a particular focus on the transformative impact it has when working with Bootstrap.
 
 ## My Initial Thoughts
 
-As I first entered the realm of UI development, my initial thoughts were a mix of excitement and nervous. The vast landscape of coding standards and tools like ESLint and IntelliJ seemed like I was forced to solve a rubiks cube without any guidance or instructions. It was in this moment of uncertainty that I used Bootstrap 5, a UI framework that would redefine my approach and make things a bit more convenient for me.
+> As I first entered the realm of UI development, my initial thoughts were a mix of excitement and nervousness. The expansive territory of coding standards and tools, such as ESLint and IntelliJ, felt akin to solving a Rubik's cube without any guidance or instructions.
+ It was in this moment of uncertainty that I used Bootstrap 5, a UI framework that would redefine my approach and make things a bit more convenient for me.
 
 ## How Bootstrap Made It Easy for Me
 
-One key milestone in my journey was the encounter with Bootstrap 5, which is a UI framework that transformed the way I approached web development. Bootstrap's intuitive structure and components not only simplified the coding process but also elevated the aesthetic appeal of my projects. And with time and patience, and being able to understand how to use it, I was able to successfully complete a couple of our practice WODs on my own and complete the actual one pretty decently and on time.
+> One key milestone in my journey was the encounter with Bootstrap 5. Personally, I had never experienced anything quite like it in the past, and I truly feel that Bootstrap 5 transformed the way I approached web development. Bootstrap's intuitive structure and components not only streamlined the coding process but also enhanced the visual appeal of my projects. It also allowed for quick and easy implementation of responsive design, enabling my projects to adapt seamlessly to various devices and screen sizes. Over time, with patience and a deeper understanding of how to utilize Bootstrap, I successfully completed several of our practice WODs independently and executed the final one proficiently and within the allotted time.
 
 ## Help with AI
 
-Navigating the complexities of UI frameworks can be frustrating, and I found great help with the assistance of artificial intelligence. Leveraging AI tools and resources, I sought guidance in understanding Bootstrap 5 and refining my skills. Whether it was exploring our practice WOD videos, forums, our class discord server, or using AI-driven code analysis, these tools became invaluable companions on my journey.
-
-The synergy between human learning and AI assistance became evident as I embraced the power of intelligent tools. AI not only provided answers to specific questions but also guided me in adopting best practices, optimizing code efficiency, and helping me discover the features within Bootstrap 5.
+> Navigating the complexities of UI frameworks can be frustrating, and I found great help with the assistance of artificial intelligence. Leveraging AI tools and resources, I sought guidance in understanding Bootstrap 5 and refining my skills. Whether it was exploring our practice WOD videos, forums, our class discord server, or using AI-driven code analysis, these tools became invaluable companions on my journey. The synergy between human learning and AI assistance became evident as I embraced the power of intelligent tools. AI not only provided answers to specific questions but also guided me in adopting best practices, optimizing code efficiency, and helping me discover the features within Bootstrap 5.
 
 ## The Conclusion to My Journey
 
-In the conclusion, I reflect on the evolution of my skills and the role of patience in mastering UI frameworks and bootrap. The essay encapsulates the essence of my journey, emphasizing that success in software engineering is not just about writing code but about embracing the learning process with patience and resilience. With the help of my teachers, TA's, classmates, online tools, and AI, I am able to succesfully create my own webpage and I hope to be able to create more advanced and well designed webpages in the future.
+> As I reach the conclusion, I take a moment to reflect on the evolution of my skills and the pivotal role that patience has played in mastering UI frameworks, particularly Bootstrap. This essay encapsulates the essence of my journey, highlighting that success in the realm of software engineering extends beyond the act of writing code. It is about embracing the learning process with unwavering patience and resilience. Throughout this journey, the support of my teachers, TAs, classmates, and the utilization of online tools and AI have been instrumental. With their guidance, I successfully created my own webpage, a testament to the progress made. Looking ahead, I am eager to continue this growth, aspiring to develop more advanced and aesthetically pleasing webpages in the future.
+
 

@@ -11,10 +11,9 @@ labels:
   - Software Engineering
   - Learning
 ---
+<img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" width="400" height="300">
 
-<img src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" width="400" height="300">
-</div>
-        <p>
+
 ## Introduction
 
 As I stood on the path of UI development, I discovered that patience is not just a virtue but more of a guiding force in which shaped my journey. The world of UI frameworks unfolded before me, it presented challenges and opportunities. In this essay, I will be diving into the significance of patience in relation to UI frameworks and Bootstrap.
@@ -36,5 +35,4 @@ The synergy between human learning and AI assistance became evident as I embrace
 ## The Conclusion to My Journey
 
 In the conclusion, I reflect on the evolution of my skills and the role of patience in mastering UI frameworks and bootrap. The essay encapsulates the essence of my journey, emphasizing that success in software engineering is not just about writing code but about embracing the learning process with patience and resilience. With the help of my teachers, TA's, classmates, online tools, and AI, I am able to succesfully create my own webpage and I hope to be able to create more advanced and well designed webpages in the future.
- </p>
-    </div>
+

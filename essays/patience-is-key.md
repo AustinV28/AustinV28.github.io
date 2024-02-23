@@ -1,4 +1,4 @@
- ---
+---
 layout: essay
 type: essay
 title: "Patience is Key: My Journey with UI Frameworks"
@@ -11,6 +11,7 @@ labels:
   - Software Engineering
   - Learning
 ---
+
 <img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/react-ui-frameworks-the-best.jpg?raw=true" alt="Patience is Key" width="400" height="300">
 
 

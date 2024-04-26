@@ -1,14 +1,20 @@
 ---
 layout: essay
 type: essay
-title: "Design Patterns: My Thoughts On Design Patterns"
+title: "Why Design Patterns Matter: Building Better Software Systems"
 date: 2024-04-25
 published: true
 labels:
   - Design Patterns
   - Software Engineering
-  - Learning
----
+  - Reusability
+  - Scalability
+  - Flexibility
+  - Maintainability
+  - Performance
+  - Communication
+  - Future-proofing
+-----------------------
 
 <img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/designpattern.jpg?raw=true" alt="Design Patterns" width="350" height="300">
 

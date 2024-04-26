@@ -1,15 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Why Design Patterns Matter: Building Better Software Systems"
+title: "Why Design Patterns Matter: My thoughts on design patterns"
+# All dates must be YYYY-MM-DD format!
 date: 2024-04-25
 published: true
 labels:
-  - Design Patterns
-  - Software Engineering
+  - Computer Science
   - Learning
------------------------
-
+  - Software Engineering
+  - Design Patterns
+---
 <img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/designpattern.jpg?raw=true" alt="Design Patterns" width="350" height="300">
 
 

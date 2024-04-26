@@ -7,13 +7,7 @@ published: true
 labels:
   - Design Patterns
   - Software Engineering
-  - Reusability
-  - Scalability
-  - Flexibility
-  - Maintainability
-  - Performance
-  - Communication
-  - Future-proofing
+  - Learning
 -----------------------
 
 <img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/designpattern.jpg?raw=true" alt="Design Patterns" width="350" height="300">

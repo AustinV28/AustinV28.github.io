@@ -22,7 +22,7 @@ As a student navigating the complexities of software engineering in ICS 314, I h
 
 ### II. Personal Experience with AI:
 
-1. **Fixing Bugs and Coding during WODs:** AI played a crucial role in helping me debug code and complete coding tasks during Workshops of the Day (WODs). Whether it was identifying syntax errors or suggesting code snippets, AI provided invaluable support in overcoming challenges efficiently. WIthout it, I probably wouldn't have been able to pass most of the WODs.
+1. **Fixing Bugs and Coding during WODs:** AI played a crucial role in helping me debug code and complete coding tasks during Workshops of the Day (WODs). I always used AI for my WODs whether if it was a small error I needed help with or if I needed some tips of what to do for the specific WOD. AI provided invaluable support in overcoming challenges efficiently. Without it, I probably wouldn't have been able to pass most of the WODs.
 
 2. **Final Project Assistance:** During the final project, I utilized AI to assist in various aspects, from generating code templates to refining implementation details. This collaborative approach augmented my problem-solving capabilities and contributed to the overall success of the project.
 
@@ -36,7 +36,7 @@ The integration of AI into my learning journey has been transformative. AI serve
 
 ### IV. Practical Applications:
 
-Throughout ICS 314, AI proved to be an invaluable asset in real-world applications. From optimizing code structure to automating quality assurance processes, AI technologies streamlined software development workflows and enhanced productivity. By harnessing AI-powered tools and platforms, I was able to accelerate project timelines and deliver high-quality software solutions.
+Throughout ICS 314, AI proved to be an invaluable asset in real-world applications. From optimizing code structure to automating quality assurance processes, AI technologies streamlined software development workflows and enhanced productivity. By harnessing AI-powered tools and platforms, I was able to accelerate project timelines and deliver high-quality software solutions especially during rough times when I would be stuck doing a certain task, AI helped me push through all of those rough times and I was able to learn from it and understand what I did wrong or how to do a specific thing.
 
 ### V. Challenges and Opportunities:
 
@@ -52,8 +52,4 @@ Looking ahead, the future role of AI in software engineering education is full w
 
 ### VIII. Conclusion:
 
-Reflecting on my journey through ICS 314, it's undeniable that AI has been a game-changer in my learning experience. From assisting with coding tasks to providing invaluable insights into complex concepts, AI has served as a trusted companion and mentor throughout the course. Without AI, navigating the intricacies of software engineering would have been significantly more challenging, if not impossible.
-
-As I look back on the ways in which AI has enriched my learning journey, I am filled with gratitude for the opportunities it has afforded me. By embracing AI as a tool for learning and growth, I have not only expanded my technical skill set but also cultivated a deeper appreciation for the intersection of technology and education.
-
-Moving forward, I am excited to continue exploring the possibilities of AI in software engineering education and beyond. With AI as my ally, I am confident in my ability to tackle future challenges and contribute meaningfully to the ever-evolving field of technology.
+Reflecting on my journey through ICS 314, it's undeniable that AI has been a game-changer in my learning experience. From assisting with coding tasks to providing invaluable insights into complex concepts, AI has served as a trusted companion and mentor throughout the course. Without AI, navigating the intricacies of software engineering would have been significantly more challenging, if not impossible. As I look back on the ways in which AI has enriched my learning journey, I am filled with gratitude for the opportunities it has afforded me. By embracing AI as a tool for learning and growth, I have not only expanded my technical skill set but also cultivated a deeper appreciation for the intersection of technology and education. Moving forward, I am excited to continue exploring the possibilities of AI in software engineering education and beyond. With AI as my ally, I am confident in my ability to tackle future challenges and contribute meaningfully to the ever-evolving field of technology.

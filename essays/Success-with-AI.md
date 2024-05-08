@@ -14,11 +14,11 @@ labels:
 
 <img align="left" src="https://github.com/AustinV28/AustinV28.github.io/blob/main/img/ai_integration.jpg?raw=true" alt="AI Integration" width="350" height="300">
 
-## How AI helped me push through Software Engineering: Insights from ICS 314
+## How AI helped me push through Software Engineering
 
 ### I. Introduction
 
-As a student navigating the complexities of software engineering in ICS 314, I have found artificial intelligence (AI) to be an indispensable tool. Without it, the challenges of debugging, coding, and understanding complex concepts would have been daunting. AI, far from being a mere "cheat code," has been instrumental in my success in this class. By leveraging AI to learn, ask questions, and seek assistance, I have been able to improve significantly and tackle the course requirements with confidence.
+As a student navigating the complexities of software engineering in ICS 314, I have found artificial intelligence (AI) to be such a great learning tool. At the start of the semester, I was having quite a rough time with just the thought of the future assignments and projects we had to do in the class. I always thought to myself that I would never be able to succeed in ICS 314 with atleast a decent grade, but that is when I found out later on during class that we would be able to use AI. At first I have been speeding through assignments without properly using AI to my advantage, to be honest I was just copy and pasting code at the first couple of week of class. But as soon as we had our very first WOD which is a timed assessment, I failed it miserably. Then I thought to myself, what did I do wrong, what can I do to succeed on future WODs, and then thats when I realized that AI is not just something to do your work for you but rather a learning tool to help you learn and grow with it's usage. I never really thought about it in that way so I asked it questions all night and it surprisingly answered all of my questions quickly and most importantly, correctly. Ever since then I used AI to help me understand material that I was confused with, how I can fix certain codes and my errors, I asked it for everything you could imagine. But the most important thing to me is the way I learned how to use it to my own learning advantage. Without it, the challenges of debugging, coding, and understanding complex concepts would have been daunting. AI, far from being a mere "cheat code," has been instrumental in my success in this class. By leveraging AI to learn, ask questions, and seek assistance, I have been able to improve significantly and tackle the course requirements with confidence.
 
 ### II. Personal Experience with AI:
 
